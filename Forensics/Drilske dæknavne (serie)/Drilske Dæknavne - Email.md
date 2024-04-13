@@ -1,12 +1,13 @@
 # Drilske Dæknavne - Email
 ## Opgaven
-I forbindelse med en større sag om import og salg af narkotika, har man beslaglagt en mobiltelefon. Mobiltelefonen er en ældre Samsung S9, og ejes af en (knap så smart) kriminel som går under navnet "Martin Michellin" - et dæknavn, som han så fint sagde under anholdelsen med et dumt smil...
-
-Vi mistænker at han skal aflevere noget stof til en småkriminel gadesælger ved navn "Jens Vejmand", noget stof som han får importeret snarligt. Vi har brug for at vide:
-
-Hvilken e-mail benytter martin? Den email vil være et flag som DDC{martin@email.dk}.
-
-Vi ved at der bliver benyttet diverse applikationer så som Snapchat, Whatsapp, SMS, opkald og lignende. Kan du undersøge telefonen?
+>
+> I forbindelse med en større sag om import og salg af narkotika, har man beslaglagt en mobiltelefon. Mobiltelefonen er en ældre Samsung S9, og ejes af en (knap så smart) kriminel som går under navnet "Martin Michellin" - et dæknavn, som han så fint sagde under anholdelsen med et dumt smil...
+> 
+> Vi mistænker at han skal aflevere noget stof til en småkriminel gadesælger ved navn "Jens Vejmand", noget stof som han får importeret snarligt. Vi har brug for at vide:
+>
+> Hvilken e-mail benytter martin? Den email vil være et flag som DDC{martin@email.dk}.
+>
+> Vi ved at der bliver benyttet diverse applikationer så som Snapchat, Whatsapp, SMS, opkald og lignende. Kan du undersøge telefonen?
 
 Der udleveres en zipfil, som er et dump af en Android-telefon.
 
