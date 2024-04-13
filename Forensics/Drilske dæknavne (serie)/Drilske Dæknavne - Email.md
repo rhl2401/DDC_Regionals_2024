@@ -124,6 +124,6 @@ Ved brug af et værktøj til at læse SQLite-databaser, som eksempelvis [DB Brow
 
 Der er en række af interessante database-filer i blandt, men en fil ved navn `core.db` fanger interessen. 
 
-![img.png](img.png)
+![img.png](../../assets/forensics_drilske_daeknavne_sqlite.png)
 
 Efter lidt søgen rundt i tabellerne, findes tabellen `SnapUserStore`, som indeholder en række af data om brugeren, herunder mailadressen: `michellinmartin04@gmail.com`, som også er løsningen på opgaven.
